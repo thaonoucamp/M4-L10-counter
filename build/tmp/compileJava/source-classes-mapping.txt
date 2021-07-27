@@ -6,3 +6,7 @@ com/codegym/model/Counter.java
  com.codegym.model.Counter
 com/codegym/controller/CountController.java
  com.codegym.controller.CountController
+com/codegym/model/User.java
+ com.codegym.model.User
+com/codegym/controller/UserController.java
+ com.codegym.controller.UserController
